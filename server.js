@@ -207,8 +207,8 @@ app.patch('/api/products/reorder', authMiddleware, (req, res) => {
 
 // Inicialização
 app.listen(PORT, () => {
-    console.log(`\nServidor rodando em http://localhost:${PORT}`);
-    console.log(`Painel Admin: http://localhost:${PORT}/admin`);
-    console.log(`API Endpoint: http://localhost:${PORT}/api/products`);
+    console.log(`\nServidor rodando em https://geladinho-digital-card-production.up.railway.app:${PORT}`);
+    console.log(`Painel Admin: https://geladinho-digital-card-production.up.railway.app${PORT}/admin`);
+    console.log(`API Endpoint:https://geladinho-digital-card-production.up.railway.app${PORT}/api/products`);
     console.log(`\nUse a senha '${ADMIN_PASSWORD}' para entrar no painel.`);
 });
