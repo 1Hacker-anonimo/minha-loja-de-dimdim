@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "name": "Geladinho Gourmet Ninho com Nutella",
+    "description": "Delicioso geladinho cremoso de Leite Ninho com recheio generoso de Nutella.",
+    "price": 5,
+    "image": "https://placehold.co/100x100/orange/white?text=Ninho",
+    "available": true,
+    "order": 0
+  },
+  {
+    "id": "2",
+    "name": "Geladinho de Morango",
+    "description": "Feito com pedaços de fruta fresca. Refrescante e natural.",
+    "price": 3.5,
+    "image": "https://placehold.co/100x100/red/white?text=Morango",
+    "available": true,
+    "order": 1
+  },
+  {
+    "id": "3",
+    "name": "Geladinho Mousse de Maracujá",
+    "description": "Textura leve de mousse com a acidez perfeita do maracujá.",
+    "price": 4.5,
+    "image": "https://placehold.co/100x100/yellow/black?text=Maracuja",
+    "available": true,
+    "order": 2
+  },
+  {
+    "id": "4",
+    "name": "Geladinho de Paçoca",
+    "description": "Cremoso com pedacinhos de amendoim. O sabor da infância.",
+    "price": 4,
+    "image": "https://placehold.co/100x100/brown/white?text=Pacoca",
+    "available": false,
+    "order": 3
+  }
+]
